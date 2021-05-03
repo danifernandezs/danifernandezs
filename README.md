@@ -1,16 +1,18 @@
-### Daniel Fernández Santos
+### Welcome to my GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I´m [Daniel](https://github.com/danifernandezs) a Civil Engineer that **actually works with containers, Kubernetes and OpenShift.**
+Hi there, I´m [Daniel Fernández Santos](https://github.com/danifernandezs), a Civil Engineer that **actually works with containers, Kubernetes and OpenShift.**
 
 <h2 align="center">About me</h2>
 
 - Currently learning all that i can about mechanical keyboards design
 - Obsessed with ephemeral and immutable Containers
 - Containers platforms lover (Kubernetes and Openshift)
-- Please, the PaaS need to protect himself
-- Control Plane API inside private networks, please
+- AWS, Terraform, Ansible, Container Runtimes, all that cloud stuff :)
+- Critical thinking, decision-making and problem solving skills
+- Please, the PaaS needs to protect herself
+- Please, your Control Plane API inside private networks
 
-<h2 align="center">Also you can reach me at</h2>
+<h2 align="center">Also you can contact with me at <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img></h2>
 
 <p align="center">
 
