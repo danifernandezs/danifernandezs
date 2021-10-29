@@ -4,7 +4,7 @@ Hi there[,](img/gifs/hithere.gif) I´m [Daniel Fernández Santos](https://github
 
 <h2 align="center">About me</h2>
 
-- I’m currently working on [Red Hat](https://www.redhat.com/en)
+- I’m currently working on [Red Hat](https://www.redhat.com/en)[.](img/gifs/mynewredhat.gif)
 - You can reach me at: danifernandezs@redhat.com
 - Currently learning all that i can about mechanical keyboards design
 - I have my own Asterisk PBX working for testing and POCs purposes
