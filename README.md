@@ -1,4 +1,4 @@
-### Welcome to my GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Welcome to my GitHub Profile
 
 Hi there[,](img/gifs/hithere.gif) I´m [Daniel Fernández Santos](https://github.com/danifernandezs), a Civil Engineer that **actually works with containers, [Kubernetes](https://kubernetes.io/docs/home/) and [OpenShift](https://docs.openshift.com/container-platform/).**
 
