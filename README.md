@@ -13,7 +13,7 @@ Hi there[,](img/gifs/hithere.gif) I´m [Daniel Fernández Santos](https://github
 - Remember, the PaaS needs to protect itself
 - Please, keep your Control Plane API private
 
-<h2 align="center">Also you can contact with me at <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img></h2>
+<h2 align="center">Also you can contact with me at</img></h2>
 
 <p align="center">
 
