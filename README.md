@@ -4,16 +4,14 @@ Hi there[,](img/gifs/hithere.gif) I´m [Daniel Fernández Santos](https://github
 
 <h2 align="center">About me</h2>
 
-- I’m currently working on [Red Hat](https://www.redhat.com/en)[.](img/gifs/mynewredhat.gif)
-- You can reach me at: danifernandezs@redhat.com
-- Currently learning all that i can about mechanical keyboards design
-- I have my own Asterisk PBX working for testing and POCs purposes
+- I’m currently working at [COS Global Services](https://cosglobalservices.com/)
+- I have my own SIP SBC and a SIP Class 5 softswitch
 - Obsessed with ephemeral and immutable Containers
-- Containers platforms lover (Kubernetes and Openshift)
+- Lover of container platforms (Kubernetes and Openshift)
 - AWS, Terraform, Ansible, Container Runtimes, all that cloud stuff :)
-- Critical thinking, decision-making and problem solving skills
-- Remember, the PaaS needs to protect herself
-- Please, your Control Plane API inside private networks
+- Critical thinking, decision making and problem solving skills
+- Remember, the PaaS needs to protect itself
+- Please, keep your Control Plane API private
 
 <h2 align="center">Also you can contact with me at <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img></h2>
 
