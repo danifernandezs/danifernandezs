@@ -34,8 +34,9 @@ Hi there[,](img/gifs/hithere.gif) I'm **[Daniel Fernández Santos](https://githu
   </a>
 </p>
 
-<p align="center">
-  📧 Reach me at: **[dfernandezs@hiberus.com](mailto:dfernandezs@hiberus.com)**
+<p align="center" style="font-size: 1.1em;">
+  <strong>📧 Reach me at: </strong>  
+  <a href="mailto:dfernandezs@hiberus.com"><strong>dfernandezs@hiberus.com</strong></a>
 </p>
 
 ---
