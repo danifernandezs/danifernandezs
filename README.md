@@ -1,21 +1,29 @@
-## Hi[,](img/gifs/hithere.gif) I’m Daniel Fernández Santos 👋
+## Hi[,](img/gifs/hithere.gif) I'm Daniel Fernández Santos 👋
 
-At **[Arktic](https://www.arktic.es/)**, I help customers build and operate **OpenShift & Kubernetes platforms** that stand up to production… and audits.  
-My rule: keep the platform **predictable** and **resilient**.
+**Platform Engineer OpenShift & Kubernetes | Automation, GitOps, Cloud Infrastructure & Applied AI**
 
-### What you’ll find here
+I build and operate OpenShift and Kubernetes platforms designed for real environments: demanding production, continuous operations, audits, security, compliance...  
+My focus is clear: **predictable, resilient, and operable platforms at scale**.
+
+I work as a platform architect specializing in OpenShift, covering the full lifecycle: design, automation, and day-2 operations (upgrades, hardening, troubleshooting). I aim to reduce operational complexity with clear standards and enable "golden paths" that make every team's work easier.
+
+I have experience in enterprise environments working with teams and clients where reliability, traceability, and standardization are non-negotiable.
+
+I'm actively working on incorporating **AI into operational workflows** (analysis, automation, and assistance), aiming to reduce repetitive tasks and improve efficiency in platform management.
+
+### What you'll find here
 - **Runbooks & day-2 automation** (upgrades/hardening/troubleshooting patterns)
 - **GitOps templates** (Argo CD, repeatable deployments)
 - **Platform tooling & experiments** (automation and ops-focused projects)
 
-### Focus areas
-- Platform Engineering / SRE: reliability, scalability, repeatability
-- GitOps: Argo CD, workflows, standards (“golden paths”)
-- OpenShift: architecture, networking, storage, resilience
-- Security & compliance: practical and operable
+### Where I add value
+- **Platform Engineering / SRE:** consistent, scalable, and aligned platforms across environments
+- **Automation:** GitOps, pipelines, and operations standardization
+- **OpenShift at depth:** architecture, networking, storage, and resilience
+- **Security & compliance:** practical implementation without operational friction
 
 ### Stack
-`OpenShift` · `Kubernetes` · `GitOps / Argo CD` · `Ansible` · `CI/CD` · `Hybrid Cloud`
+`OpenShift` · `Kubernetes` · `GitOps / Argo CD` · `Ansible` · `CI/CD` · `Hybrid Cloud` · `AI`
 
 ### Links
 - LinkedIn: https://www.linkedin.com/in/danifernandezs/
