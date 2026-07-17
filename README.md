@@ -26,6 +26,7 @@ I'm actively working on incorporating **AI into operational workflows** (analysi
 - 📝 **[En Mi Contenedor Funciona](https://www.enmicontenedorfunciona.com/)** — Blog about containers, OpenShift, Kubernetes and operators
 - 🧠 **[Brainstorming Agent](https://www.danifernandezs.com/brainstorming-agent/)** — Structured brainstorming agent for OpenCode with 6-3-5 Brainwriting and Rolestorming methodologies — [repo](https://github.com/danifernandezs/brainstorming-agent)
 - 📋 **[SpecSmith Agent](https://www.danifernandezs.com/specsmith-agent/)** — Specification and requirements agent for AI-assisted development — [repo](https://github.com/danifernandezs/specsmith-agent)
+- 🏠 **[opencode-selfhost](https://www.danifernandezs.com/opencode-selfhost/)** — Self-hosted OpenCode server in Docker behind Caddy with automatic HTTPS — [repo](https://github.com/danifernandezs/opencode-selfhost)
 
 ### Stack
 `OpenShift` · `Kubernetes` · `GitOps / Argo CD` · `Ansible` · `CI/CD` · `Hybrid Cloud` · `AI`
