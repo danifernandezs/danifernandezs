@@ -22,6 +22,11 @@ I'm actively working on incorporating **AI into operational workflows** (analysi
 - **OpenShift at depth:** architecture, networking, storage, and resilience
 - **Security & compliance:** practical implementation without operational friction
 
+### Projects
+- 📝 **[En Mi Contenedor Funciona](https://www.enmicontenedorfunciona.com/)** — Blog about containers, OpenShift, Kubernetes and operators
+- 🧠 **[Brainstorming Agent](https://github.com/danifernandezs/brainstorming-agent)** — Structured brainstorming agent for OpenCode with 6-3-5 Brainwriting and Rolestorming methodologies — [try it](https://www.danifernandezs.com/brainstorming-agent/)
+- 📋 **[SpecSmith Agent](https://github.com/danifernandezs/specsmith-agent)** — Specification and requirements agent for AI-assisted development
+
 ### Stack
 `OpenShift` · `Kubernetes` · `GitOps / Argo CD` · `Ansible` · `CI/CD` · `Hybrid Cloud` · `AI`
 
