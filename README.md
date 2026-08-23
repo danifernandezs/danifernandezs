@@ -28,6 +28,7 @@ I'm actively working on incorporating **AI into operational workflows** (analysi
 - 🤖 **[Agent Loops](https://www.danifernandezs.com/agent-loops/)** — Multi-agent orchestration system with LLM task decomposition, isolated Docker containers and SQLite Kanban board — [repo](https://github.com/danifernandezs/agent-loops)
 - 📋 **[SpecSmith Agent](https://www.danifernandezs.com/specsmith-agent/)** — Spec-writing companion agent for the Agent Loops orchestrator — [repo](https://github.com/danifernandezs/specsmith-agent)
 - 🏠 **[opencode-selfhost](https://www.danifernandezs.com/opencode-selfhost/)** — Self-hosted OpenCode server in Docker behind Caddy with automatic HTTPS — [repo](https://github.com/danifernandezs/opencode-selfhost)
+- 💡 **[keep·awake](https://keepawake.dev/)** — Free single-page tool that keeps your computer awake (Wake Lock + silent audio), zero dependencies — [repo](https://github.com/danifernandezs/keep-awake)
 
 ### Stack
 `OpenShift` · `Kubernetes` · `GitOps / Argo CD` · `Ansible` · `CI/CD` · `Hybrid Cloud` · `AI`
@@ -36,4 +37,3 @@ I'm actively working on incorporating **AI into operational workflows** (analysi
 - LinkedIn: https://www.linkedin.com/in/danifernandezs/
 - Blog: https://www.enmicontenedorfunciona.com/
 - Website: https://www.danifernandezs.com/
-- Elara (AI project): https://www.lacreadorademundos.com/
